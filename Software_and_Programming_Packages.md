@@ -47,7 +47,6 @@ Opiniated list of open source tools for data visualisation.
   popularity among data scientists, web developers, and researchers
   who need to create interactive visualizations quickly and
   efficiently.
-- Folium  
 - [Grafana](): Grafana is an open-source platform for monitoring and
   visualizing time-series data from various sources such as logs,
   metrics, events, or traces. It provides a powerful dashboarding
@@ -59,7 +58,6 @@ Opiniated list of open source tools for data visualisation.
   ecosystem of plugins and integrations, and user-friendly interface
   make it a popular choice among professionals who need to monitor
   complex systems and applications effectively.
-
 - [Datashader](https://datashader.org/): DataShader is an open-source
   library that enables interactive data analysis and visualization
   using GPU acceleration. It provides a high-level API for rendering
