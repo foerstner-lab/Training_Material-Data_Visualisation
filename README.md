@@ -4,3 +4,6 @@
 - [Software and Programming Packages](./Software_and_Programming_Packages.md)
 - [Recommended Resources](./Recommeded_Resources.md)
 - [Glossary](./Glossary.md)
+
+
+See [how to contribute](CONTRIBUTING.md) like [others have done](CONTRIBUTORS.md).
