@@ -46,3 +46,26 @@ data.
 <img src="./images/Data_encode_visualisation_decode.png" />
 <figcaption>Encoding and decoding during visualisation to form a mental model</figcaption>
 </figure>
+
+
+### Features / Attributes
+
+Features can be
+- categorical / qualitative
+  - Nominal (e.g. eye color, type of bike )
+  - Ordinal (e.g. very bad, bad, good, very good)
+- numerical / quantitative
+  - Discrete (e.g. number of people)
+  - Continuous (e.g. height of person, weight of a ship , distance between two locations)
+
+## Aesthetics
+
+Aesthetics - anciet greek αἴσθησις;
+
+<figure id="fig:accuarcy" width="800">
+<img src="./images/Aesthetics_and_accuracy.png" />
+<figcaption>based on Mackinlay, 1986, <em>ACM Transactions on
+Graphics</em>, <a
+href="https://doi.org/10.1145/22949.22950">https://doi.org/10.1145/22949.22950</a></figcaption>
+</figure>
+
