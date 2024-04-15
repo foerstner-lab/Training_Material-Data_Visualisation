@@ -44,5 +44,5 @@ data.
 
 <figure id="fig:Encoding" width="800">
 <img src="./images/Data_encode_visualisation_decode.png" />
-<figcaption>Encoding / Decoding</figcaption>
+<figcaption>Encoding and decoding during visualisation to form a mental model</figcaption>
 </figure>
