@@ -51,16 +51,30 @@ data.
 ### Features / Attributes
 
 Features can be
-- categorical / qualitative
-  - Nominal (e.g. eye color, type of bike )
-  - Ordinal (e.g. very bad, bad, good, very good)
-- numerical / quantitative
-  - Discrete (e.g. number of people)
-  - Continuous (e.g. height of person, weight of a ship , distance between two locations)
+- **categorical** / **qualitative**
+  - **Nominal**: Nominal features are categorical variables that have
+    two or more categories without any inherent order or ranking among
+    them. (e.g. eye color, type of bike)
+  - **Ordinal**: These are features that represent a natural order. The
+    values can be ordered but not necessarily equally
+    spaced. (e.g. very bad, bad, good, very good)
+- **numerical** / **quantitative**
+  - **Discrete**: Discrete features are a type of variable in
+    statistics and data analysis that represent countable, distinct
+    values. (e.g. number of people, number of page visits per month)
+  - **Continuous**: These are features that represent numerical data with
+    infinite possibilities and can take any value within a range
+    (e.g. height of person, weight of ships, distance between two
+    locations)
 
 ## Aesthetics
 
 Aesthetics - anciet greek αἴσθησις;
+
+In the context of data visualization, aesthetics refer to the visual
+properties and attributes used to represent data. Aesthetics play a
+crucial role in making visualizations engaging, understandable, and
+informative.
 
 <figure id="fig:accuarcy" width="800">
 <img src="./images/Aesthetics_and_accuracy.png" />
