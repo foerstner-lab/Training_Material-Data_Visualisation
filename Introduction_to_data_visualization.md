@@ -20,7 +20,7 @@ their environment, learn about it, and adapt to different situations
 and experiences.
 
 - sight (stimulus: light)
-- smell (stimulus: chemical substance
+- smell (stimulus: chemical substance)
 - touch (stimulus: presure / temperatur)
 - taste (stimulus: chemical substance)
 - hearing (stimulus: sound = presure)
