@@ -8,3 +8,5 @@
 
 
 See [how to contribute](CONTRIBUTING.md) like [others have done](CONTRIBUTORS.md).
+
+This material is available under the [Creative Common Attribution License (CC-BY)](./LICENSE).
