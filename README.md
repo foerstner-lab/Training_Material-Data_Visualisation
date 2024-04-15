@@ -1,7 +1,10 @@
 # Training Material - Data Visualisation
 
-This training material is developed and maitained by the research
-group of Konrad Förstner (ZB MED). It aims to give foundation of data
+This training material is developed and maitained by the [research
+group "Data Science and
+Services"](https://www.zbmed.de/en/research/research-at-zb-med/research-data-science-and-services)
+of [Konrad Förstner](https://konrad.foerstner.org/) ([ZB
+MED](https://www.zbmed.de/en/)). It aims to give foundation of data
 visualisation and computational tools visualise (large) data
 sets. This resource is available under the [Creative Common
 Attribution License (CC-BY)](./LICENSE). See [how to
