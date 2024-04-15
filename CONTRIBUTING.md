@@ -1,5 +1,3 @@
-
-
 - Issues - TBD
 - Pull request - TBD
 - Use American English
