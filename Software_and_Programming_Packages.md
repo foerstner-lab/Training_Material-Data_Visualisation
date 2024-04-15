@@ -92,4 +92,7 @@ Opiniated list of open source tools for data visualisation.
   that define the plot's structure and appearance.
 - Plotly:
 - Dash:
-
+- [Circos](http://circos.ca/)
+  [pyCircos](https://github.com/ponnhide/pyCircos))
+- [Pyveplot](https://gitlab.com/rgarcia-herrera/pyveplot)
+- [NetworkX](https://networkx.org/)
