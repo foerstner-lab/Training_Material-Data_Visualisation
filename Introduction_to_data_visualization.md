@@ -42,5 +42,7 @@ chart are related and what patterns they may reveal about the
 underlying data. It helps forming a mental model of the visualised
 data.
 
-
-
+<figure id="fig:Encoding" width="800">
+<img src="./images/Data_encode_visualisation_decode.png" />
+<figcaption>Encoding / Decoding</figcaption>
+</figure>
