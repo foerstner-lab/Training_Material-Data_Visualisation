@@ -1,6 +1,13 @@
 # Books
 
-
+-   [Fundamentals of Data Visualization: A Primer on Making Informative
+    and Compelling Figures](https://clauswilke.com/dataviz/), Claus O.
+    Wilke, O\'Reilly Media; 1st edition, 2019, <ISBN:978-1492031086>,
+    available under the CC-BY-NC-ND license
+-   Visualization Analysis and Design: Principles, Techniques, and
+    Practice, Tamara Munzner, 2014, ISBN: 978-1466508910
+-   The visual display of quantitative information, Edward R. Tufte,
+    1983
 
 # Articles
 
