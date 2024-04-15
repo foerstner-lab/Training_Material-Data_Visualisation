@@ -96,3 +96,5 @@ Opiniated list of open source tools for data visualisation.
   [pyCircos](https://github.com/ponnhide/pyCircos))
 - [Pyveplot](https://gitlab.com/rgarcia-herrera/pyveplot)
 - [NetworkX](https://networkx.org/)
+- [Apache Echarts](https://echarts.apache.org/)
+- [Apache Superset](https://superset.apache.org/)
