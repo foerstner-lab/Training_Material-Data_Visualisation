@@ -83,3 +83,9 @@ Graphics</em>, <a
 href="https://doi.org/10.1145/22949.22950">https://doi.org/10.1145/22949.22950</a></figcaption>
 </figure>
 
+## Misc
+
+<figure id="fig:accuarcy" width="800">
+<img src="./images/Color_vs_Shape.svg" />
+<figcaption>Shape vs Color</figcaption>
+</figure>
