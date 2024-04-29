@@ -2,35 +2,34 @@
 
 (without claiming completeness)
 
-## 1D Density
-## 2D Density
-## Arc Diagram
+## 1D Density plot
+## 2D Density plot
+## Arc diagram
 ## Area chart
-## Barplot
-## Boxplot
-## Bubble
-## Chord Diagram
-## Circular Barplot
+## Bar plot
+## Box plot
+## Bubble plot
+## Chord diagram
+## Circular bar plot
 ## Correlogram
 ## Dendrogram
-## Donut
-## Edge Bundling
+## Donut plot
+## Edge bundling
 ## Heatmap
-## Hexbin
+## Hexbin plot
 ## Histogram
-## Hive
+## Hive plot
 ## Line chart
 ## Map
-## Network
-## Parallel
-## Pie
-## Radar / Spider
-## Ridgeline
-## Sankey
-## Scatter
-## Scatterplot
-## Swarmplot
+## Network plot
+## Parallel coordinates plot
+## Pie chart
+## Radar / Spider plot
+## Ridgeline plot
+## Sankey plot
+## Scatter plot
+## Swarm plot
 ## Treemap
-## Venn Diagram
-## Violin
+## Venn diagram
+## Violin plot
 ## Wordcloud
