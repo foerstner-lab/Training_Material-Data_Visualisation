@@ -58,19 +58,22 @@ Opiniated list of open source tools for data visualisation.
   ecosystem of plugins and integrations, and user-friendly interface
   make it a popular choice among professionals who need to monitor
   complex systems and applications effectively.
-- [Datashader](https://datashader.org/): DataShader is an open-source
-  library that enables interactive data analysis and visualization
-  using GPU acceleration. It provides a high-level API for rendering
-  complex statistical graphics, such as scatter plots with confidence
-  intervals or violin plots, on modern graphics processing units
-  (GPUs). With its focus on performance, scalability, and ease of use,
-  DataShader is widely used in scientific computing, research, and
-  data analysis tasks that require real-time visualization and
-  interactive exploration of large datasets. Its ability to offload
-  computation from the CPU to the GPU allows users to perform complex
-  computations quickly and efficiently, making it a popular choice
-  among professionals who need to analyze and visualize large amounts
-  of data effectively.
+- [HoloViz](https://holoviz.org/) is a suite of Python libraries
+  designed to simplify the visualization of large and complex
+  datasets. It provides tools for creating interactive and
+  high-performance visualizations with minimal code. Among other it
+  includes the following packges. [HoloViews](https://holoviews.org/):
+  Simplifies the creation of complex visualizations by automatically
+  managing the plotting details. [Panel](https://panel.holoviz.org/):
+  Helps in building custom interactive web apps and dashboards using
+  Python. [Datashader](https://datashader.org/): Handles the rendering
+  of large datasets by intelligently downsampling data to produce
+  clear, informative
+  visualizations. [hvPlot](https://hvplot.holoviz.org/): Provides a
+  high-level plotting API built on HoloViews for use with data
+  structures from pandas, Dask, and other
+  libraries. [GeoViews](https://geoviews.org/): Extends HoloViews to
+  support geographic data visualization.
 - [Folium](https://python-visualization.github.io/folium/latest/):
   Folium is an open-source Python library that enables interactive
   maps using Leaflet.js, a powerful JavaScript library for geospatial
